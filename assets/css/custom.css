@@ -1,0 +1,33 @@
+/* === Custom Styles === */
+
+/* Hero Section */
+#hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+/* Navigation Menu */
+#header nav ul li a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/* General Section Titles */
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* Footer */
+#footer {
+  padding: 2rem 0;
+  background: #222;
+  color: #aaa;
+  font-size: 0.9rem;
+  text-align: center;
+}
